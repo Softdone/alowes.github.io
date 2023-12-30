@@ -62,6 +62,8 @@ export const Pricing = () => {
                 </div>
               </label>
             </div>
+
+
             <div className="flex flex-wrap flex-col lg:flex-row -mx-4 items-center mt-20">
               <div className="w-[350px] sm:w-[380px] lg:w-1/3 px-4 mb-8 lg:mb-0">
                 <div className="p-8 bg-customDarkBg3 rounded-3xl">
@@ -96,6 +98,8 @@ export const Pricing = () => {
                   </div>
                 </div>
               </div>
+
+
               <div className="w-[350px] sm:w-[380px] lg:w-1/3 px-4 mb-8 lg:mb-0">
                 <div className="px-8 py-8 bg-customDarkBg3 rounded-3xl">
                   <h4 className="mb-2 2xl:mb-4 text-2xl font-bold font-heading text-white text-left">
@@ -128,6 +132,8 @@ export const Pricing = () => {
                   </div>
                 </div>
               </div>
+
+
               <div className="w-[350px] sm:w-[380px] lg:w-1/3 px-4 mb-8 lg:mb-0">
                 <div className="p-8 bg-customDarkBg3 rounded-3xl">
                   <h4 className="mb-2 text-xl font-bold font-heading text-white text-left">
@@ -160,6 +166,8 @@ export const Pricing = () => {
                   </div>
                 </div>
               </div>
+
+
             </div>
           </div>
         </motion.div>

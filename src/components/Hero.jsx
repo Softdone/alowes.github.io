@@ -18,8 +18,8 @@ export const Hero = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
         >
-          <div className="text-customSecondary text-sm sm:text-base  mb-6 sm:mt-32 mt-16  font-bold">
-            Discover new data flow
+          <div className="text-customSecondary text-sm sm:text-base  mb-6 sm:mt-20 mt-16  font-bold">
+            Empower Your Data With Insights
           </div>
         </motion.div>
         <motion.div
@@ -28,11 +28,11 @@ export const Hero = () => {
           transition={{ duration: 0.5, delay: 0.05 }}
         >
           <div className="text-5xl sm:text-6xl lg:text-7xl xl:text-7xl font-bold tracking-wide  text-white  px-8 sm:px-8 md:px-20 lg:px-4">
-            <span className="inline md:hidden">Analytics</span>
-            <span className="hidden md:inline">Analytic tools suite</span>
+            <span className="inline md:hidden">Marketing Analytics</span>
+            <span className="hidden md:inline">Comprehensive Analytics</span>
           </div>
           <div className="mt-2 sm:mt-2 text-4xl sm:text-6xl lg:text-7xl xl:text-7xl font-bold tracking-wide  text-white  px-8 sm:px-20 md:px-24 lg:px-24">
-            for developers
+            Tailored for Marketers
           </div>
         </motion.div>
         <motion.div
@@ -41,8 +41,7 @@ export const Hero = () => {
           transition={{ duration: 0.5, delay: 0.1 }}
         >
           <div className="text-customGrayText text-sm lg:text-base xl:text-lg sm:text-base mt-10 px-12 sm:px-48 ">
-            Experience seamless business integrations and powerful insights with
-            our cutting-edge analytic tools.
+            Dive deep into marketing metrics and elevate your campaigns with our intuitive and robust analytics platform.
           </div>
         </motion.div>
         <motion.div
@@ -57,12 +56,7 @@ export const Hero = () => {
             >
               Get Started
             </div>
-            <div
-              className="w-64 sm:w-52 h-12 rounded-xl font-bold text-white border border-solid  flex justify-center items-center cursor-pointer bg-customDarkBg2 hover:bg-customDarkBg3 border-customPrimary transition"
-              onClick={() => setIsModalOpen(true)}
-            >
-              Live demo
-            </div>
+      
           </div>
         </motion.div>
         <motion.div

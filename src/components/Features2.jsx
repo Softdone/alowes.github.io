@@ -33,33 +33,37 @@ export const Features2 = () => (
         </div>
 
         <div className="w-full lg:w-1/2 mb-12 lg:mb-0 xl:pl-8">
-          <div className="mx-auto lg:mx-auto w-11/12 sm:w-4/5 md:w-3/4 lg:w-unset">
-            <span className="custom-block-subtitle">
-              Make Data-Driven Decisions
-            </span>
-            <h2 className="mt-6 mb-8 text-4xl lg:text-5xl custom-block-big-title">
-              Issue tracking you’ll enjoy using
-            </h2>
-            <p className="mb-12 text-customGrayText leading-loose">
-              Monitor and track data issues with ease using our intuitive and
-              efficient issue tracking system. Stay ahead of potential problems
-              and improve your workflow.
-            </p>
-            <ul className="mb-6 text-white">
-              <li className="mb-4 flex">
-                <CheckArrowIcon />
-                <span>Collaborative environment</span>
-              </li>
-              <li className="mb-4 flex">
-                <CheckArrowIcon />
-                <span>Smart issue categorization</span>
-              </li>
-              <li className="mb-4 flex">
-                <CheckArrowIcon />
-                <span>Customizable notifications</span>
-              </li>
-            </ul>
-          </div>
+
+
+
+<div className="mx-auto lg:mx-auto w-11/12 sm:w-4/5 md:w-3/4 lg:w-unset">
+  <span className="custom-block-subtitle">
+    Empower Your Marketing Strategy
+  </span>
+  <h2 className="mt-6 mb-8 text-4xl lg:text-5xl custom-block-big-title">
+    Transform Insights into Impact
+  </h2>
+  <p className="mb-12 text-customGrayText leading-loose">
+    Elevate your marketing campaigns with our comprehensive analytics dashboard. Harness data-driven insights to refine targeting, boost engagement, and skyrocket your ROI.
+  </p>
+  <ul className="mb-6 text-white">
+    <li className="mb-4 flex">
+      <CheckArrowIcon />
+      <span>Collaborative campaigns in real-time</span>
+    </li>
+    <li className="mb-4 flex">
+      <CheckArrowIcon />
+      <span>Intelligent segmentation for precise targeting</span>
+    </li>
+    <li className="mb-4 flex">
+      <CheckArrowIcon />
+      <span>Automated alerts to capitalize on marketing trends</span>
+    </li>
+  </ul>
+</div>
+
+
+
         </div>
       </div>
     </motion.div>

@@ -18,33 +18,38 @@ export const Features1 = () => {
         viewport={{ once: true }}
         transition={{ duration: 0.5, delay: 0.2 }}
       >
+
+
         <div className="flex flex-wrap items-center 2xl:w-[1450px] xl:w-[1300px] w-11/12 mx-auto md:pl-4 xl:pr-16 xl:pl-16">
+
+
           <div className="w-full lg:w-1/2 mb-12 lg:mb-0">
             <div className="mx-auto lg:mx-auto w-11/12 sm:w-4/5 md:w-3/4 lg:w-unset">
-              <span className="custom-block-subtitle">Embrace Innovation</span>
+              <span className="custom-block-subtitle">Harness the Future</span>
               <h2 className="mt-6 mb-8 text-4xl lg:text-5xl custom-block-big-title">
-                Unlike any tool you used before
+              Elevate Your Marketing Game
               </h2>
               <p className="mb-10 text-customGrayText leading-loose">
-                Discover a new level of data analysis with our innovative and
-                user-friendly platform. Transform your business needs with actionable
-                insights.
+              Step into the next generation of marketing with our state-of-the-art analytics platform. Make informed decisions and drive growth with insights that matter.
+    
               </p>
               <ul className="mb-6 text-white">
                 <li className="mb-4 flex">
                   <CheckArrowIcon />
-                  <span>Real-time data visualization</span>
+                  <span>Dive deep with real-time data visualization</span>
                 </li>
                 <li className="mb-4 flex">
                   <CheckArrowIcon />
-                  <span>Advanced predictive analytics</span>
+                  <span>Unlock potential with advanced predictive analytics</span>
                 </li>
                 <li className="mb-4 flex">
                   <CheckArrowIcon />
-                  <span>Seamless integration with APIs</span>
+                  <span>Experience effortless integration with APIs</span>
                 </li>
               </ul>
             </div>
+
+            
           </div>
           <div className="w-3/4 mx-auto lg:w-1/2 flex flex-wrap lg:-mx-4 sm:pr-8 lg:pt-10 justify-center lg:pl-4 xl:px-8">
             <div className="mb-8 lg:mb-0 w-full sm:w-1/2 px-2 lg:px-0">
@@ -81,6 +86,10 @@ export const Features1 = () => {
             </div>
           </div>
         </div>
+
+
+
+        
       </motion.div>
     </section>
   );

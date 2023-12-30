@@ -23,24 +23,27 @@ export const InvitationModal = ({ setIsOpen }) => (
           <div className="flex relative">
             <div className="w-1/2 hidden lg:inline">
               <h2 className="mt-6 mb-2 text-5xl font-bold tracking-normal text-white">
-                Subscribe Now
+                Marketing Packages
               </h2>
               <h2 className="text-5xl font-bold tracking-normal text-customSecondary">
-                Winter is coming
+                Tailored for Success
+
               </h2>
 
               <ul className="mb-6 text-white mt-12">
                 <li className="mb-4 flex">
                   <CheckArrowIcon />
-                  <span>Vestibulum viverra</span>
+                  <span>Customizable strategies to fit your brand</span>
+
                 </li>
                 <li className="mb-4 flex">
                   <CheckArrowIcon />
-                  <span>Morbi mollis metus pretium</span>
+                  <span>Data-driven campaigns for targeted outreach</span>
+
                 </li>
                 <li className="mb-4 flex">
                   <CheckArrowIcon />
-                  <span>Etiam lectus nunc, commodo</span>
+                  <span>Comprehensive analytics for informed decision-making</span>
                 </li>
               </ul>
             </div>
@@ -50,12 +53,12 @@ export const InvitationModal = ({ setIsOpen }) => (
                   <TailcastLogo />
                 </div>
                 <div className="text-white font-['Inter'] font-bold text-3xl">
-                  Tailcast
+                  Alowes Marketing Solutions
                 </div>
               </div>
 
               <h3 className="mb-7 text-2xl text-white font-bold leading-snug text-center">
-                Join 3,953 other developers
+                Elevate Your Brand's Presence
               </h3>
               <div className="flex flex-wrap -m-2">
                 <div className="w-full sm:w-4/5 p-2 mx-auto">

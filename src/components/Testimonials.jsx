@@ -7,25 +7,25 @@ import testimonial3 from "../assets/images/testimonial3.png";
 
 const testimonialsData = [
   {
-    customerName: "John Watkins",
-    customerTitle: "Founder of Dashflow",
+    customerName: "Ethan Grant",
+    customerTitle: "Marketing Director at Creativio",
     content:
-      "The powerful analytic tools have helped us streamline our processes and make data-driven decisions that positively impact our efficiency. Tailcast has been a game-changer for our business. The platform is easy to use, and the insights we've gained have driven significant improvements.",
-    image: testimonial1,
+      "Alowes Marketing Solutions empowered us to unlock the full potential of our data. Their marketing analytics suite provided us with unparalleled insights, enabling our team to craft campaigns that resonate deeply with our audience. The results? Increased engagement and a significant boost in conversions.",
+   image: testimonial1,
   },
   {
-    customerName: "John Watkins",
-    customerTitle: "Founder of Dashflow",
+    customerName: "Samantha Lee",
+    customerTitle: "CMO at TrendMakers",
     content:
-      "The powerful analytic tools have helped us streamline our processes and make data-driven decisions that positively impact our efficiency. Tailcast has been a game-changer for our business. The platform is easy to use, and the insights we've gained have driven significant improvements.",
-    image: testimonial2,
+      "The predictive analytics from Alowes Marketing Solutions has been a revelation for our strategy sessions. It's like we've been given the keys to a treasure trove of market predictions that have consistently put us ahead of the competition. Our marketing efforts are now more proactive than reactive, thanks to Alowes.",
+     image: testimonial2,
   },
   {
-    customerName: "John Watkins",
-    customerTitle: "Founder of Dashflow",
+    customerName: "Mario Gomez",
+    customerTitle: "CMO at Apex Dynamics",
     content:
-      "The powerful analytic tools have helped us streamline our processes and make data-driven decisions that positively impact our efficiency. Tailcast has been a game-changer for our business. The platform is easy to use, and the insights we've gained have driven significant improvements.",
-    image: testimonial3,
+      "Integrating Alowes Marketing Solutions into our workflow was a game-changer. The seamless API integrations brought all our marketing channels into one easy-to-navigate platform. It's been instrumental in streamlining our processes and enhancing the efficiency of our marketing strategies, thanks for all.",
+      image: testimonial3,
   },
 ];
 
@@ -43,7 +43,7 @@ export const Testimonials = () => (
           Testimonials
         </div>
         <div className="custom-block-big-title text-center mb-16 px-8 sm:px-24 md:px-48">
-          People like you love Tailcast
+        Join the Community 
         </div>
 
         <div className="flex flex-col lg:flex-row gap-8 lg:gap-5 xl:gap-10 px-6 xl:px-0 items-center">

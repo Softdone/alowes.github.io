@@ -5,6 +5,6 @@ export const TailcastLogo = () => (
     width="50"
     height="50"
     src={logo} // Reference the imported image
-    alt='Tailcast Logo'
+    alt='Alowes Logo'
   />
 );
