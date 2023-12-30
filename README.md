@@ -1,13 +1,14 @@
-# Tailcast
+# Alowes Marketing Solutions
 
-Dark themed website template built on AstroJS, designed for technological startup business.
+![image](https://github.com/Softdone/alowes.github.io/assets/44554474/a45cc8ba-6858-4b01-9461-985a33a36d2c)
+
 
 ## Tech stack:
 
 Astro, React, Tailwind, Framer Motion
 
 ## Live link
-[https://tailcast.vercel.app/](https://tailcast.vercel.app/)
+https://alowesmarketingsolutions.netlify.app/
 
 ##  Project Structure
 
